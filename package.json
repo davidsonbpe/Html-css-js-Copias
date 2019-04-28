@@ -1,0 +1,19 @@
+{
+  "name": "htmlcssjsco",
+  "description": "HtmlcssjsCo",
+  "version": "1.0.1",
+  "author": "davidsonbpe <davidsonbpe@pm.me>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsonbpe/Html-css-js-Copias.git"
+  },
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/davidsonbpe/Html-css-js-Copias/issues"
+  },
+  "homepage": "https://github.com/davidsonbpe/Html-css-js-Copias#readme"
+}
