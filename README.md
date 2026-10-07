@@ -1,4 +1,4 @@
-<img src="https://docs.github.com/actions/writing-workflows/quickstart" min-width="150px" max-width="150px" width="150px" align="right" alt="">
+<img src="https://www.svgrepo.com/show/530582/document.svg" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
 # HTML-CSS-JS-COPIAS
 
